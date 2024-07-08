@@ -1,0 +1,8 @@
+Eid,Name,Designation,Dept,Manager_id,Project_id,Salary_id
+1,Aman,"Sr Developer",IT,101,A1,S1
+2,Karan,"Hr Manager",HR,102,A2,S2
+3,Ravi,Hr,HR,103,A3,S3
+4,Suman,"Sales executive",Operation,104,A4,S4
+5,Mohit,"Data Analyst",IT,105,A5,S5
+6,Akshay,Intern,IT,210,A25,NULL
+7,"Akshay dhaniya",Intern,IT,310,A25,S23
